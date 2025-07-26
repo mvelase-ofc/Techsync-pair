@@ -1,2 +1,8 @@
-# Techsync-pair
-𝐓𝐞𝐜𝐡𝐬𝐲𝐧𝐜 𝐏𝐚𝐢𝐫 𝐂𝐨𝐝𝐞
+> ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ ᴘᴀɪʀ ᴄᴏᴅᴇ
+
+![image](https://files.catbox.moe/jt3qb1.png)
+
+
+> ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ sᴇssɪᴏɴ ɪᴅ ɢᴇɴᴇʀᴀᴛᴏʀ
+
+
